@@ -1,0 +1,10 @@
+route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route_text_color,route_url
+AL_BORAQ_TNG_CASA,ONCF,Al Boraq,Tanger - Casablanca (High Speed),2,E31837,FFFFFF,https://www.oncf.ma
+AL_BORAQ_TNG_MKC,ONCF,Al Boraq,Tanger - Marrakech (High Speed),2,E31837,FFFFFF,https://www.oncf.ma
+AL_ATLAS_CASA_MKC,ONCF,Al Atlas,Casablanca - Marrakech,2,1E4D8C,FFFFFF,https://www.oncf.ma
+AL_ATLAS_CASA_FES,ONCF,Al Atlas,Casablanca - Fès,2,1E4D8C,FFFFFF,https://www.oncf.ma
+AL_ATLAS_CASA_OUJDA,ONCF,Al Atlas,Casablanca - Oujda,2,1E4D8C,FFFFFF,https://www.oncf.ma
+AL_ATLAS_TNG_FES,ONCF,Al Atlas,Tanger - Fès (Direct),2,1E4D8C,FFFFFF,https://www.oncf.ma
+TNR_CASA_KENITRA,ONCF,TNR,Casa-Port - Rabat - Kénitra (Navette),2,4CAF50,FFFFFF,https://www.oncf.ma
+AL_ATLAS_CASA_JADIDA,ONCF,Al Atlas,Casablanca - El Jadida,2,1E4D8C,FFFFFF,https://www.oncf.ma
+AL_ATLAS_NADOR_CASA,ONCF,Al Atlas,Nador - Casablanca,2,1E4D8C,FFFFFF,https://www.oncf.ma

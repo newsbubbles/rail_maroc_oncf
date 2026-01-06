@@ -1,0 +1,2 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone
+ONCF,Office National des Chemins de Fer,https://www.oncf.ma,Africa/Casablanca,fr,+212 890 20 30 40
