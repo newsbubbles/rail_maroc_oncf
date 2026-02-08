@@ -1,2 +1,2 @@
 feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version,feed_contact_email
-Rail Maroc Community,https://github.com/rail-maroc,fr,20240101,20251231,1.0.0,
+Rail Maroc Community,https://github.com/rail-maroc,fr,20240101,20261231,1.0.0,
